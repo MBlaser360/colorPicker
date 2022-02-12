@@ -1,0 +1,24 @@
+h1 {
+  color: rgb(69, 172, 212);
+  text-align: center;
+}
+body {
+  background-color: rgb(7, 15, 19);
+}
+
+
+/* The slider */
+
+.slider {
+  width: 500px;
+  height: 1000px;
+  display: block;
+  text-align: center;
+  position: absolute;
+  left: 37%;
+  
+}
+.slidecontainer {
+  position:relative;
+  align-items: center;
+}
