@@ -2,6 +2,10 @@ h1 {
   color: rgb(69, 172, 212);
   text-align: center;
 }
+h3 {
+  color:rgb(69, 172, 212);
+  text-align: center;
+}
 body {
   background-color: rgb(7, 15, 19);
 }
@@ -9,7 +13,7 @@ body {
 
 /* The slider */
 
-
+ 
 div {
   width: 500px;
   height: 1000px;
